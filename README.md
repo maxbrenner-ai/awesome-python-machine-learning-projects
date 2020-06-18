@@ -13,3 +13,9 @@ A list of cool ML projects on github
 
 ## Artificial Life
 * [Project Origin](https://github.com/kourgeorge/project-origin): An Artificial Life simulator for Investigating Noogenesis 
+
+## Terrain Generation
+* [GAN Heightmaps](https://github.com/christopher-beckham/gan-heightmaps): Heightmap generation with GANs
+
+## Cybersecurity
+* [SDN DDoS Simulation](https://github.com/santhisenan/SDN_DDoS_Simulation): An attempt to detect and prevent DDoS attacks using reinforcement learning. The simulation was done using Mininet
