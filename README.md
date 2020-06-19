@@ -1,21 +1,22 @@
 A list of cool ML projects on github
 
-## Genetic Algorithms
-* [Gaps](https://github.com/nemanja-m/gaps): A Genetic Algorithm-Based Solver for Jigsaw Puzzles
+## Game Solvers
+* [Gaps](https://github.com/nemanja-m/gaps): A Genetic Algorithm-Based Solver for Jigsaw Puzzles 
 
-## NEAT
-* [PyTorch Neat](https://github.com/ddehueck/pytorch-neat): A pytorch implementation of the NEAT (NeuroEvolution of Augmenting Topologies) algorithm 
-
-## Cellular Automata
+## Games
 * [Sandspiel](https://github.com/MaxBittker/sandspiel): Creative cellular automata browser game
-* [Music generation](https://github.com/Sciguymjm/CellularAutomata): Music generation using Elementary Cellular Automata
-* [Urban Land use Model](https://github.com/johanlahti/urban-lu-model): A land use model based on Cellular Automata and Agent-based modelling
+
+## Music
+* [Music generation w/ CA](https://github.com/Sciguymjm/CellularAutomata): Music generation using Elementary Cellular Automata
+* [Music Source Seperation](https://github.com/andabi/music-source-separation): Deep neural networks for separating singing voice from music written in TensorFlow 
 
 ## Artificial Life
 * [Project Origin](https://github.com/kourgeorge/project-origin): An Artificial Life simulator for Investigating Noogenesis 
 
-## Terrain Generation
+## Terrain Based Modeling
 * [GAN Heightmaps](https://github.com/christopher-beckham/gan-heightmaps): Heightmap generation with GANs
+* [Wildfire Model](https://github.com/acl2171/wildfire_model): Can we apply machine learning techniques to predict where wildfires are most likely to spread? 
+* [Urban Land use Model](https://github.com/johanlahti/urban-lu-model): A land use model based on Cellular Automata and Agent-based modelling
 
 ## Cybersecurity
 * [SDN DDoS Simulation](https://github.com/santhisenan/SDN_DDoS_Simulation): An attempt to detect and prevent DDoS attacks using reinforcement learning. The simulation was done using Mininet
