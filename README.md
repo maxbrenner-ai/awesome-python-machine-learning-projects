@@ -26,7 +26,7 @@
 ## Chatbot
 * [Emotional Dialogue](https://github.com/nikhil-kotecha/Emotional_Dialogue): A Deep Reinforcement Learning Approach (LSTM + policy gradient) to create a chatbot that produces coherent, emotional dialogue
 
-# Astronomy
+## Astronomy
 * [Exoplanet Hunt (Help Wanted)](https://github.com/STAC-IITMandi/Exoplanet-Hunt): Machine Learning apporach to detecting Exoplanets 
 * [Galaxy Classification](https://github.com/ChaoticBlack/galaxy-classification-ml): Classifying galaxies using various machine learning models 
 * [Classify Asteroid Families](https://github.com/4xxi/asteroid-families-ml): Identify asteroid families using machine-learning
