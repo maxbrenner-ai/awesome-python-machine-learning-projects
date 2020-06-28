@@ -1,6 +1,8 @@
-# A list of cool ML projects on github
+# A list of awesome ML projects on github
 
-*An important aspect of any GitHub project is the Readme, most if not all of the projects listed below have good Readmes that explain the purpose of the project as well as how to run it. If you have an awesome project you want the world to look at it make sure to make an awesome Readme*
+This is an ongoing compilation of cool ML projects on github in Python. There is a lot more for me to explore! If you would like to submit a project you've made or that you have found, submit an issue with the link of the project (having something to do with AI or ML and in Python or Jupyter notebooks)
+
+*Note: An important aspect of any GitHub project is the readme, most if not all of the projects listed below have good readmes that explain the purpose of the project as well as how to run it. If you have an awesome project you want the world to look at it make sure to make an awesome readme*
 
 ## Games
 * [Gaps](https://github.com/nemanja-m/gaps): A Genetic Algorithm-Based Solver for Jigsaw Puzzles 
