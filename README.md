@@ -36,9 +36,20 @@ This is an ongoing compilation of cool ML projects on github in Python. There is
 ## Education
 * [Asses Odds of MBA Admission](https://github.com/weallwegot/poets_quants_handicap): Assessing Odds of MBA Admission. Webscrape for Data Collection and some Machine Learning samples. 
 
-## Energy
+## Energy and Physics
 * [Reinforcement learning for energy systems](https://github.com/ADGEfficiency/energy-py)
 * [Electric Vehicle Routing](https://github.com/Dungyichao/Electric-Vehicle-Route-Planning-on-Google-Map-Reinforcement-Learning)
+* [HEPAutoencoders](https://github.com/Skelpdar/HEPAutoencoders)
 
 ## Chemistry
 * [Chem Reactions](https://github.com/lightingghost/chemopt): Optimizing Chemical Reactions with Deep Reinforcement Learning 
+* [Molecular Autoencoder](https://github.com/cxhernandez/molencoder): ML-compression of ATLAS trigger jet events using autoencoders
+
+## Health
+* [Autoencoder for FMRI Volumes](https://github.com/srinjaypaul/3D-convolutional-autoencoder-for-fmri-volumes)
+
+## Videos and Images
+* [Frame level anamoly detection in videos](https://github.com/tnybny/Frame-level-anomalies-in-videos)
+
+## Social Networks
+* [Link Prediction with ML](https://github.com/lucashu1/link-prediction): Representation learning for link prediction within social networks 
