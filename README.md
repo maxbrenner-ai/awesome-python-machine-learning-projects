@@ -50,6 +50,10 @@ This is an ongoing compilation of cool ML projects on github in Python. There is
 
 ## Videos and Images
 * [Frame level anamoly detection in videos](https://github.com/tnybny/Frame-level-anomalies-in-videos)
+* [Icon color](https://github.com/mosessoh/iconcolor): Automatic icon colorization using deep convolutional neural networks
 
 ## Social Networks
 * [Link Prediction with ML](https://github.com/lucashu1/link-prediction): Representation learning for link prediction within social networks 
+
+## Miscellaneous
+* [ChaosNetwork](https://github.com/harman666666/ChaosNetwork): A design for a new deep learning model architecture inspired by the human brain 
